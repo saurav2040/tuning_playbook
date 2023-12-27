@@ -9,7 +9,7 @@
 
 &Dagger; Harvard University
 
-## Table of Contents
+## Table of Contents:
 
 -   [Who is this document for?](#who-is-this-document-for)
 -   [Why a tuning playbook?](#why-a-tuning-playbook)
